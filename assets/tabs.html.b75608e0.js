@@ -1,0 +1,1 @@
+const t={key:"v-391e9caf",path:"/guide/tabs.html",title:"Tabs",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/tabs.md"};export{t as data};
